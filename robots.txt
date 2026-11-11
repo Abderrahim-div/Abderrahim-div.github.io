@@ -38,4 +38,4 @@ User-agent: Applebot-Extended
 Disallow: /
 
 # Replace YOUR-DOMAIN with the public domain before publishing.
-Sitemap: abderrahim-div.github.io
+Sitemap: https://abderrahim-div.github.io/sitemap.xml
