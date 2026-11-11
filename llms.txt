@@ -1,0 +1,31 @@
+# Sbaia Abderrahim
+
+> Personal portfolio of Sbaia Abderrahim, a Master's student in Software Engineering interested in the design and development of web applications.
+
+## Profile
+
+- **Name:** Sbaia Abderrahim
+- **Background:** Master's student in Software Engineering
+- **Location:** Algiers, Algeria
+- **Portfolio:** Replace this with the public URL of the portfolio when available.
+- **GitHub:** https://github.com/Abderrahim-div
+
+## Key areas
+
+- Software Engineering
+- Web development
+- Web applications
+
+Specific programming languages, frameworks, and tools have not yet been listed in the portfolio.
+
+## Projects
+
+Project descriptions have not yet been added to the portfolio. Replace these placeholders with real projects before publication:
+
+1. **Project 1 — To be completed:** Add the project name, purpose, personal contribution, technologies, and a link to the result or repository.
+2. **Project 2 — To be completed:** Add a concise description and the technologies used.
+3. **Project 3 — To be completed:** Add a concise description and a link, if available.
+
+## Contact
+
+- Email: sbaiaabderrahim1@gmail.com
