@@ -7,7 +7,7 @@
 - **Name:** Sbaia Abderrahim
 - **Background:** Master's student in Software Engineering
 - **Location:** Algiers, Algeria
-- **Portfolio:** Replace this with the public URL of the portfolio when available.
+- **Portfolio:** https://abderrahim-div.github.io/
 - **GitHub:** https://github.com/Abderrahim-div
 
 ## Key areas
